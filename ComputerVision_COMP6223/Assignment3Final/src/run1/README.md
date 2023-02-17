@@ -1,0 +1,2 @@
+## Task.
+You should develop a simple k-nearest-neighbour classifier using the “tiny image” feature. The “tiny image” feature is one of the simplest possible image representations. One simply crops each image to a square about the centre, and then resizes it to a small, fixed resolution (we recommend 16x16). The pixel values can be packed into a vector by concatenating each image row. It tends to work slightly better if the tiny image is made to have zero mean and unit length. You can choose the optimal k-value for the classifier.
